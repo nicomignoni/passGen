@@ -1,4 +1,3 @@
 .vs/
 passgen/Debug/
-passgen/*.vcpkgproj
-passgen.sln
+
